@@ -1,4 +1,4 @@
-# 🚀 NeuroByte Society - Git & GitHub Workshop 2025
+# 🚀 NeuroByte Society - Git & GitHub Workshop 2026
 
 Welcome to the official repository of our **Git & GitHub Workshop** 🎉  
 
