@@ -2,7 +2,6 @@
 
 Welcome to the official repository of our **Git & GitHub Workshop** 🎉  
 
-📅 **Date:**  30 August 2025  
 🏫 **Organized by:** NeuroByte Society  
 
 ---
